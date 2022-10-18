@@ -1,3 +1,6 @@
+![a bowl of green guacamole with a brown avocado pit in the middle](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Guacomole.jpg/640px-Guacomole.jpg)
+
+
 Ingredients:
 - 2 avocados
 - 1 lime

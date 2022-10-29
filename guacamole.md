@@ -7,11 +7,13 @@ Ingredients:
 - 2 tsp salt
 - jalapeno to taste
 - 1/2 onion
+- tomato
  
 Instructions:
 - cut and mash avocados
 - chop onion
 - chop jalapeno
+- chop tomato
 - squeeze lime
 - add salt
 - and mix well
